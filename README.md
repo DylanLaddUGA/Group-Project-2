@@ -15,7 +15,7 @@ Descriptions of the data set: The dataset we used for this project was
 
 **Arrest Key**: A unique identifier for each arrest record.
 
-**Arrest Date**: The date and time when the arrest occurred.
+**Arrest Date**: The date when the arrest occurred.
 
 **PD Cd**: The internal code used by the NYPD to represent the specific offense.
 
