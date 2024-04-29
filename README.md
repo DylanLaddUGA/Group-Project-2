@@ -99,3 +99,4 @@ As you absorb our line graph, it is important to note the key identifiers. Each 
  Given the volume of data that was in the orginal dataset, 5.72 million rows, we decided to condense it to roughly 700,000 rows, excluding all data that was retrieved before Jan 1, 2020.  This allowed us to provide a more in-depth analysis of the arrests that occurred during and after the COVID-19 pandemic. In addition to this, the data in the chart’s were grouped based on similar arrest descriptions to remove clutter in the visualizations and make the data easier to comprehend.
 
  # Tableau Packaged Workbook
+The Tableau Packaged Workbook is attached above the README file.
