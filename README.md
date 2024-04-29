@@ -81,7 +81,7 @@ The first graph offers a compelling visual depiction illustrating the correlatio
 
 ![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/e9dc0b9f-6da4-4477-b69c-36b2ab8b757f)
 
-The second graph presents a visual representation of arrests categorized by race, with a notable observation being that the demographic accounting for the highest number of criminal incidents is black individuals, particularly in the category of assault offenses. These findings hold significant importance as they shed light on widespread issues like structural disadvantages, social disorganization, and lack of resources within these communities.
+The second graph presents a visual representation of arrests categorized by race, with a notable observation being that the demographic accounting for the highest number of criminal incidents is black individuals, particularly in the category of assault offenses. Considering that the Black demographic is considered a minority in New York, it is surprising to see that they are the dominant distribution in terms of arrests.  The data is of significant importance as they shed light on widespread issues like structural disadvantages, racial profiling, and lack of resources within these communities. Looking at the distribution of arrest types against races, there is yet again no strong corrrelation to draw between the race and type of crime committed. 
 
 # Question 2 Explained
 Question: Does the borough and covid have an impact on the number of crimes that take place?
